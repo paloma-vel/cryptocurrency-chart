@@ -1,0 +1,19 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3 {
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.credit, .credit a {
+  color: #cccccc;
+  text-decoration: none
+}
